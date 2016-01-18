@@ -8,7 +8,12 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
+.github{
+  padding-bottom: 20px
+}
+.portfolio-item{
+  height: 350px;
+}
 .text-muted {
     color: #777;
 }
