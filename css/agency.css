@@ -3,6 +3,9 @@ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+.contact-footer{
+  background-color: #000000;
+}
 .github{
   padding-bottom: 20px
 }
